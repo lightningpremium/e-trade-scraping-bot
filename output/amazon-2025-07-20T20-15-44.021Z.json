@@ -1,0 +1,952 @@
+{
+  "site": "Amazon",
+  "baseUrl": "https://www.amazon.com.tr",
+  "timestamp": "2025-07-20T20:15:44.018Z",
+  "categories": [
+    {
+      "url": "https://www.amazon.com.tr/",
+      "products": [
+        {
+          "title": "Levoit 20dB Ayaklı Fan, Sessiz, Sensörlü ve Uzaktan Kumandalı, Salınımlı, Saatte 2465 Metreküp Hava Hacmi, Dört Dakikada Hava Sirkülasyonu, Dört Mod, 12 Seviye, 12 Saat Zamanlayıcı",
+          "price": "5.220,00 TL",
+          "originalPrice": "7.459,00 TL",
+          "discountRate": "%30",
+          "discountPercentage": 30,
+          "imageUrl": "https://m.media-amazon.com/images/I/319Y-C9t3KL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levoit-Kumandal%C4%B1-Sal%C4%B1n%C4%B1ml%C4%B1-Sirk%C3%BClasyonu-Zamanlay%C4%B1c%C4%B1/dp/B0CTMNRY8Q?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CTMNRY8Q&ref_=pd_hp_d_btf_unk_B0CTMNRY8Q",
+          "hasDiscount": true
+        },
+        {
+          "title": "HONEYWELL Modern HSF600BE Sessiz Set Döner Ayaklı Vantilatör, Gürültü Azaltma Teknolojili - Siyah",
+          "price": "2.409,00 TL",
+          "originalPrice": "3.999,00 TL",
+          "discountRate": "%40",
+          "discountPercentage": 40,
+          "imageUrl": "https://m.media-amazon.com/images/I/41SZISCqGML._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/HONEYWELL-HSF600BE-Vantilat%C3%B6r-G%C3%BCr%C3%BClt%C3%BC-Teknolojili/dp/B07P5TL17N?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07P5TL17N&ref_=pd_hp_d_btf_unk_B07P5TL17N",
+          "hasDiscount": true
+        },
+        {
+          "title": "HONEYWELL QuietSet Tower HYF290, 8 Hız Ayarı, 80 Derece Salınım, Zamanlayıcı Fonksiyonu, Uzaktan Kumanda, Kısma Seçenekleri",
+          "price": "3.309,00 TL",
+          "originalPrice": "5.499,00 TL",
+          "discountRate": "%40",
+          "discountPercentage": 40,
+          "imageUrl": "https://m.media-amazon.com/images/I/41YxiBg+u1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Honeywell-QuietSet-zamanlay%C4%B1c%C4%B1-fonksiyonu-se%C3%A7enekleri/dp/B06WRTY4J8?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B06WRTY4J8&ref_=pd_hp_d_btf_unk_B06WRTY4J8",
+          "hasDiscount": true
+        },
+        {
+          "title": "HONEYWELL QuietSet HYF260 Tüm Oda İçin Salınımlı Kule Vantilatör, 5 Hız Ayarı, 80 Derece Salınım, Zamanlayıcı Fonksiyonu, Aydınlatma, Otomatik Kapanma, Uzaktan Kumanda",
+          "price": "2.979,00 TL",
+          "originalPrice": "4.949,00 TL",
+          "discountRate": "%40",
+          "discountPercentage": 40,
+          "imageUrl": "https://m.media-amazon.com/images/I/41CBPyRw8rL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/HONEYWELL-Vantilat%C3%B6r-Zamanlay%C4%B1c%C4%B1-Fonksiyonu-Ayd%C4%B1nlatma/dp/B06W9LSS3V?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B06W9LSS3V&ref_=pd_hp_d_btf_unk_B06W9LSS3V",
+          "hasDiscount": true
+        },
+        {
+          "title": "CONTIGO BYRON SNAPSEAL TERMOS BARDAK 470ML GRİ",
+          "price": "578,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31r25yqyrxL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/CONTIGO-BYRON-SNAPSEAL-TERMOS-BARDAK/dp/B07TPCL1RW?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07TPCL1RW&ref_=pd_hp_d_btf_unk_B07TPCL1RW",
+          "hasDiscount": false
+        },
+        {
+          "title": "Contigo Westloop Autoseal Termos Bardak 470 mL Açık Mavi",
+          "price": "823,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41qGPfVSz2L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Contigo-Westloop-Autoseal-Termos-Turkuaz/dp/B08WX4PRDV?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B08WX4PRDV&ref_=pd_hp_d_btf_unk_B08WX4PRDV",
+          "hasDiscount": false
+        },
+        {
+          "title": "Caso Ice Chef Pro Buz Yapma Makinesi",
+          "price": "12.732,92 TL",
+          "originalPrice": "16.125,30 TL",
+          "discountRate": "%21",
+          "discountPercentage": 21,
+          "imageUrl": "https://m.media-amazon.com/images/I/31VtphLpqNL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Caso-Ice-Chef-Yapma-Makinesi/dp/B07RB5QBSL?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07RB5QBSL&ref_=pd_hp_d_btf_unk_B07RB5QBSL",
+          "hasDiscount": true
+        },
+        {
+          "title": "NPO iHome 025AK Renkli Aromaterapi Difüzör ve Ultrasonik Hava Nemlendirici Buhar Makinesi",
+          "price": "479,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41iKBDordVL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/NPO-Aromaterapi-Ultrasonik-Nemlendirici-Makinesi/dp/B0DK1LL6RM?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DK1LL6RM&ref_=pd_hp_d_btf_unk_B0DK1LL6RM",
+          "hasDiscount": false
+        },
+        {
+          "title": "Çelik Kesme Tahtası 3'lü Set Paslanmaz Çelik Gıda Temasına Uygun Hijyenik ve Dayanıklı Antibakteriyel 0,7 mm Kesim Panosu Levhası Cam Kesme Tahtası",
+          "price": "472,20 TL",
+          "originalPrice": "594,00 TL",
+          "discountRate": "%21",
+          "discountPercentage": 21,
+          "imageUrl": "https://m.media-amazon.com/images/I/41K10snNwuL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Paslanmaz-Temas%C4%B1na-Hijyenik-Dayan%C4%B1kl%C4%B1-Antibakteriyel/dp/B0FH5VWPNX?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0FH5VWPNX&ref_=pd_hp_d_btf_unk_B0FH5VWPNX",
+          "hasDiscount": true
+        },
+        {
+          "title": "Hario Soğuk Demleme Sürahisi “Kahverengi”",
+          "price": "1.464,46 TL",
+          "originalPrice": "1.499,00 TL",
+          "discountRate": "Fırsat",
+          "discountPercentage": 2,
+          "imageUrl": "https://m.media-amazon.com/images/I/41TaCy70X-L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Hario-Mizudashi-demli%C4%9Fi-Gebrauter-Kahverengi/dp/B00I7JKAQ0?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B00I7JKAQ0&ref_=pd_hp_d_btf_unk_B00I7JKAQ0",
+          "hasDiscount": true
+        },
+        {
+          "title": "Yui M19 Smoothi Blender 2 Şişeli Pembe",
+          "price": "806,55 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/21qZNqmeZ1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Yui-M19-Smoothi-Blender-%C5%9Ei%C5%9Feli/dp/B0DSHZ933C?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DSHZ933C&ref_=pd_hp_d_btf_unk_B0DSHZ933C",
+          "hasDiscount": false
+        },
+        {
+          "title": "Fissler 600 – 000 – 11 – 770/0 Vitaquick SKT yedek Deckelstiel, plastik, siyah, 35 x 21.0 X 4,2 cm",
+          "price": "1.801,15 TL",
+          "originalPrice": "2.119,00 TL",
+          "discountRate": "%15",
+          "discountPercentage": 15,
+          "imageUrl": "https://m.media-amazon.com/images/I/21+n0gVGt0L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Fissler-Vitaquick-yedek-Deckelstiel-plastik/dp/B01NCAWRQW?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B01NCAWRQW&ref_=pd_hp_d_btf_unk_B01NCAWRQW",
+          "hasDiscount": true
+        },
+        {
+          "title": "TAÇ 3903 BELLA DÖKÜM TAVA NO:26 SİYAH",
+          "price": "623,18 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/410UKG969VL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/TA%C3%87-BELLA-D%C3%96K%C3%9CM-TAVA-NO/dp/B0C6YCB7F4?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0C6YCB7F4&ref_=pd_hp_d_btf_unk_B0C6YCB7F4",
+          "hasDiscount": false
+        },
+        {
+          "title": "Masaüstü Vantilatör, Şarjlı Masaüstü Fan, 3600 Mah Batarya, Uzun Kullanım Süresi, 3 Kademeli Ayarlanır Güç Modu, Soğutucu Vantilatör, Sessiz Çalışma, Ergonomik Tasarım, Masaüstü Kullanım",
+          "price": "386,99 TL",
+          "originalPrice": "429,99 TL",
+          "discountRate": "%10",
+          "discountPercentage": 10,
+          "imageUrl": "https://m.media-amazon.com/images/I/41FpM0xwEsL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Masa%C3%BCst%C3%BC-Vantilat%C3%B6r-Kullan%C4%B1m-Ayarlan%C4%B1r-Ergonomik/dp/B0FDH45SLR?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0FDH45SLR&ref_=pd_hp_d_btf_unk_B0FDH45SLR",
+          "hasDiscount": true
+        },
+        {
+          "title": "Karaca Forbs 12 Parça Saklama Kabı",
+          "price": "453,07 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/316rngwSkVL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Karaca-Forbs-Par%C3%A7a-Saklama-Kab%C4%B1/dp/B09WX31BDT?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09WX31BDT&ref_=pd_hp_d_btf_unk_B09WX31BDT",
+          "hasDiscount": false
+        },
+        {
+          "title": "Glasslock Glasslock Yuvarlak Cam Saklama Kabı 4000 Ml D-MBCB400",
+          "price": "679,50 TL",
+          "originalPrice": "724,72 TL",
+          "discountRate": "%6",
+          "discountPercentage": 6,
+          "imageUrl": "https://m.media-amazon.com/images/I/31KpKj-FokL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Glasslock-Yuvarlak-Saklama-Kab%C4%B1-D-MBCB400/dp/B00TYL3J9K?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B00TYL3J9K&ref_=pd_hp_d_btf_unk_B00TYL3J9K",
+          "hasDiscount": true
+        },
+        {
+          "title": "Hario V60 02 Dripper Filtresi Natürel (100 adet)",
+          "price": "279,23 TL",
+          "originalPrice": "286,00 TL",
+          "discountRate": "Fırsat",
+          "discountPercentage": 2,
+          "imageUrl": "https://m.media-amazon.com/images/I/41fpWayuKeL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Hario-Dripper-Filtresi-Nat%C3%BCrel-adet/dp/B00AYBN5FM?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B00AYBN5FM&ref_=pd_hp_d_btf_unk_B00AYBN5FM",
+          "hasDiscount": true
+        },
+        {
+          "title": "Miss Flora Nem Alıcı 450 g Yedek 3'Lü Set",
+          "price": "282,99 TL",
+          "originalPrice": "325,51 TL",
+          "discountRate": "%13",
+          "discountPercentage": 13,
+          "imageUrl": "https://m.media-amazon.com/images/I/31RIsvxl2XL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Miss-Flora-Nem-Al%C4%B1c%C4%B1-Yedek/dp/B0874XG5KJ?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0874XG5KJ&ref_=pd_hp_d_btf_unk_B0874XG5KJ",
+          "hasDiscount": true
+        },
+        {
+          "title": "Primanova Neoflam Fika Alüminyum Döküm Tava 24Cm Gri D-Neog124",
+          "price": "1.161,95 TL",
+          "originalPrice": "1.468,80 TL",
+          "discountRate": "%21",
+          "discountPercentage": 21,
+          "imageUrl": "https://m.media-amazon.com/images/I/21hg4l0awjL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Fika-Al%C3%BCminyum-D%C3%B6k%C3%BCm-Tava-24Cm/dp/B09M924XZ5?pd_rd_w=mpYji&content-id=amzn1.sym.72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_p=72f6540a-7e35-4948-a972-aa6f001b3d27&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09M924XZ5&ref_=pd_hp_d_btf_unk_B09M924XZ5",
+          "hasDiscount": true
+        },
+        {
+          "title": "Levi's 512 Slim Taper Jeans Jean Pantolon Erkek",
+          "price": "974,75 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/3162Qg9MosL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Erkek-Slim-Taper-Pantolon/dp/B07SCTMM2B?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07SCTMM2B&ref_=pd_hp_d_btf_unk_B07SCTMM2B",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 502 Taper Jeans Jean Pantolon Erkek",
+          "price": "1.411,64 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31NE3tLnCyL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Erkek-Pantolon-%C3%9Cretici-%C3%96l%C3%A7%C3%BCs%C3%BC/dp/B0824FQFH6?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0824FQFH6&ref_=pd_hp_d_btf_unk_B0824FQFH6",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's The Trucker Ceket Mont Erkek",
+          "price": "1.739,03 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/5112NpM-1NL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Trucker-Ceket-Erkek-Indigo/dp/B0CNCTSKJJ?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CNCTSKJJ&ref_=pd_hp_d_btf_unk_B0CNCTSKJJ",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's Ribcage Straight Jeans Kot Pantolon Kadın",
+          "price": "1.167,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Mxchz3DLL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Ribcage-Straight-Pantolon-Indigo/dp/B0DCX8WWQL?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DCX8WWQL&ref_=pd_hp_d_btf_unk_B0DCX8WWQL",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 501 Original Jeans Kot Pantolon Erkek",
+          "price": "2.173,75 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31fIKFpGATL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Original-Jeans-Erkek-Pantolon/dp/B0DCX7KJWX?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DCX7KJWX&ref_=pd_hp_d_btf_unk_B0DCX7KJWX",
+          "hasDiscount": false
+        },
+        {
+          "title": "Sleepy Bio Natural Yenidoğan Islak Bebek Bakım Havlusu 24X40 Adet",
+          "price": "531,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31JEvHC8VhL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Sleepy-Natural-Yenido%C4%9Fan-Islak-Havlusu/dp/B09YYS5NHX?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09YYS5NHX&ref_=pd_hp_d_btf_unk_B09YYS5NHX",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 511 Slim Jean Pantolon Erkek",
+          "price": "1.411,64 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31TkVtGRSQL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Slim-Erkek-Jean-Blues/dp/B0DRCL7H6S?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DRCL7H6S&ref_=pd_hp_d_btf_unk_B0DRCL7H6S",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 501 Crop Jeans Jean Pantolon Kadın",
+          "price": "1.081,90 TL",
+          "originalPrice": "1.255,83 TL",
+          "discountRate": "%14",
+          "discountPercentage": 14,
+          "imageUrl": "https://m.media-amazon.com/images/I/21RsxWtgUOL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Crop-Kad%C4%B1n-Jean-Pantolon/dp/B0CVHGDM2L?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CVHGDM2L&ref_=pd_hp_d_btf_unk_B0CVHGDM2L",
+          "hasDiscount": true
+        },
+        {
+          "title": "PUMA Puma Smash 3.0 L Spor AyakkabıUnisex Yetişkin",
+          "price": "2.549,15 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/21DWpviWIML._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/PUMA-Smash-erkek-ayakkab%C4%B1s%C4%B1-White/dp/B09YY1NSF9?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09YY1NSF9&ref_=pd_hp_d_btf_unk_B09YY1NSF9",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 502 Taper Kot Pantolon Erkek",
+          "price": "1.288,75 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31MS-IRMMrL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Taper-Erkek-Jean-Indigo/dp/B0BTWBVZHN?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BTWBVZHN&ref_=pd_hp_d_btf_unk_B0BTWBVZHN",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's Relaxed Graphic Crew Sweatshirt Sweatshirt Erkek",
+          "price": "1.304,23 TL",
+          "originalPrice": "1.507,04 TL",
+          "discountRate": "%13",
+          "discountPercentage": 13,
+          "imageUrl": "https://m.media-amazon.com/images/I/31LGjqNHVCL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Relaxed-Graphic-Sweatshirt-Erkek/dp/B0DCXDJ5RJ?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DCXDJ5RJ&ref_=pd_hp_d_btf_unk_B0DCXDJ5RJ",
+          "hasDiscount": true
+        },
+        {
+          "title": "Levi's Original Sweatshirt Sweatshirt Erkek",
+          "price": "877,56 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31+xUv9+tCL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Original-Sweatshirt-Erkek-Blacks/dp/B0DD4Z59K6?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DD4Z59K6&ref_=pd_hp_d_btf_unk_B0DD4Z59K6",
+          "hasDiscount": false
+        },
+        {
+          "title": "PUMA X-Ray 2 Square Ayakkabı 373108",
+          "price": "2.990,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41CDqjiDrLL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/PUMA-Yeti%C5%9Fkin-White-PUMA-Black-Fast-Yellow-PUMA/dp/B0BQBV47C4?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BQBV47C4&ref_=pd_hp_d_btf_unk_B0BQBV47C4",
+          "hasDiscount": false
+        },
+        {
+          "title": "Erkek Deri Ceket",
+          "price": "4.206,65 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Rn31PWUlL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/U-S-Assn-Erkek-Ceket-S%C4%B0YAH/dp/B0FCSRGJXC?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0FCSRGJXC&ref_=pd_hp_d_btf_unk_B0FCSRGJXC",
+          "hasDiscount": false
+        },
+        {
+          "title": "ESSENTIALS Logo Erkek Tişört",
+          "price": "650,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31yHO1TaYVL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/PUMA-ESSENTIALS-Logo-Erkek-Ti%C5%9F%C3%B6rt/dp/B0DX7D7QS4?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DX7D7QS4&ref_=pd_hp_d_btf_unk_B0DX7D7QS4",
+          "hasDiscount": false
+        },
+        {
+          "title": "United Colors of Benetton Regular Fit Kısa Kollu Polo Tişört T-shirt Erkek",
+          "price": "976,65 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31zIrIbc41L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/United-Colors-Benetton-Regular-Tshirt/dp/B0B6W74PM4?pd_rd_w=jYkaJ&content-id=amzn1.sym.fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_p=fa83dcf9-1820-4b87-8b64-ec3fab869b42&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0B6W74PM4&ref_=pd_hp_d_btf_unk_B0B6W74PM4",
+          "hasDiscount": false
+        },
+        {
+          "title": "Charged Surge 4 Erkek Gri Koşu Ayakkabısı 3027000-106",
+          "price": "1.461,98 TL",
+          "originalPrice": "1.487,98 TL",
+          "discountRate": "Fırsat",
+          "discountPercentage": 2,
+          "imageUrl": "https://m.media-amazon.com/images/I/31aAvCO6-+L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Charged-Ayakkab%C4%B1s%C4%B1-Antrasit/dp/B0BZXMVK68?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BZXMVK68&ref_=pd_hp_d_btf_unk_B0BZXMVK68",
+          "hasDiscount": true
+        },
+        {
+          "title": "Camper Runner Four Erkek Bot",
+          "price": "2.855,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31-RfDTqxhL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Camper-Runner-Four-Erkek-S%C4%B0YAH/dp/B08B3YWTF5?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B08B3YWTF5&ref_=pd_hp_d_btf_unk_B08B3YWTF5",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's 512 Slim Taper Jeans Jean Pantolon Erkek",
+          "price": "1.260,73 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31ldRehMfNL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-SPANISH-ANGELS-Pantolon-%C3%9Cretici/dp/B08DP6RN8J?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B08DP6RN8J&ref_=pd_hp_d_btf_unk_B08DP6RN8J",
+          "hasDiscount": false
+        },
+        {
+          "title": "Camper Erkek Krs K100992-002",
+          "price": "2.792,90 TL",
+          "originalPrice": "2.980,44 TL",
+          "discountRate": "%6",
+          "discountPercentage": 6,
+          "imageUrl": "https://m.media-amazon.com/images/I/21NxxISdnEL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Camper-Karst-Ayakkab%C4%B1-Renkli-Erkek/dp/B0DF87192J?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DF87192J&ref_=pd_hp_d_btf_unk_B0DF87192J",
+          "hasDiscount": true
+        },
+        {
+          "title": "Levi's 511 Slim Jeans Jean Pantolon Erkek",
+          "price": "899,90 TL",
+          "originalPrice": "1.260,73 TL",
+          "discountRate": "%29",
+          "discountPercentage": 29,
+          "imageUrl": "https://m.media-amazon.com/images/I/31X7nq2t8TL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Jeans-Erkek-Pantolon-Indigo/dp/B0DCXR851L?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DCXR851L&ref_=pd_hp_d_btf_unk_B0DCXR851L",
+          "hasDiscount": true
+        },
+        {
+          "title": "Under Armour UA Undeniable 5.0 Unisex Yetişkin",
+          "price": "1.221,98 TL",
+          "originalPrice": "1.246,99 TL",
+          "discountRate": "Fırsat",
+          "discountPercentage": 2,
+          "imageUrl": "https://m.media-amazon.com/images/I/31VcWLa4CZL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Unisex-Undeniable-1369224-001/dp/B093LSJJMY?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B093LSJJMY&ref_=pd_hp_d_btf_unk_B093LSJJMY",
+          "hasDiscount": true
+        },
+        {
+          "title": "Levi's 502 Taper Jeans Jean Pantolon Erkek",
+          "price": "1.245,84 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31HiKtHq6tL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Erkek-LSE_502-Taper-Biologia/dp/B09VCTGHQG?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09VCTGHQG&ref_=pd_hp_d_btf_unk_B09VCTGHQG",
+          "hasDiscount": false
+        },
+        {
+          "title": "Levi's Type 3 Sherpa Trucker Ceket Spor Ceketi Erkek",
+          "price": "1.299,90 TL",
+          "originalPrice": "2.089,58 TL",
+          "discountRate": "%38",
+          "discountPercentage": 38,
+          "imageUrl": "https://m.media-amazon.com/images/I/41CkvnapeIL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Levis-Ceket-ERKEK-16365-LAC%C4%B0VERT/dp/B07DVNYBLP?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07DVNYBLP&ref_=pd_hp_d_btf_unk_B07DVNYBLP",
+          "hasDiscount": true
+        },
+        {
+          "title": "Vertisol Trail Erkek Ayakkabı",
+          "price": "4.494,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31b-rvtp40L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Columbia-Vertisol-Trail-Arazi-Ayakkab%C4%B1s%C4%B1/dp/B0C5NQ5J39?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0C5NQ5J39&ref_=pd_hp_d_btf_unk_B0C5NQ5J39",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas Duramo Sl M Spor Ayakkabı Erkek",
+          "price": "1.492,20 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Mq5NUO6OL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Adidas-Duramo-Erkek-Ayakkab%C4%B1-43-3333333333333/dp/B0CLS1YZ9G?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CLS1YZ9G&ref_=pd_hp_d_btf_unk_B0CLS1YZ9G",
+          "hasDiscount": false
+        },
+        {
+          "title": "Dynamic Select Erkek Siyah Antrenman Ayakkabısı 3026608-001",
+          "price": "2.157,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31pl6IxHB3L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/ARMOUR-Dynamic-Antrenman-Ayakkab%C4%B1s%C4%B1-3026608-001/dp/B0BGQQ7WVH?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BGQQ7WVH&ref_=pd_hp_d_btf_unk_B0BGQQ7WVH",
+          "hasDiscount": false
+        },
+        {
+          "title": "Charged Assert 10 Erkek Siyah Koşu Ayakkabısı 3026175-001",
+          "price": "1.735,77 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/415h+DapoEL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Charged-Assert-Ayakkab%C4%B1s%C4%B1/dp/B09XBW5NF6?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09XBW5NF6&ref_=pd_hp_d_btf_unk_B09XBW5NF6",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas ULTIMASHOW 2.0 Spor AyakkabıErkek",
+          "price": "1.617,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31J5YGitipL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/adidas-ULTIMASHOW-Ayakkab%C4%B1-WONALU-44-6666666666667/dp/B0CYQ5LL5K?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CYQ5LL5K&ref_=pd_hp_d_btf_unk_B0CYQ5LL5K",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour UA W Charged Surge 4 Spor AyakkabıKadın",
+          "price": "1.508,65 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31lZWwVgadL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Ayakkab%C4%B1s%C4%B1-Charged-Metallic/dp/B0BZXQYRPX?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BZXQYRPX&ref_=pd_hp_d_btf_unk_B0BZXQYRPX",
+          "hasDiscount": false
+        },
+        {
+          "title": "Dockers Oxford Slim Fit Gömlek Gömlek Erkek",
+          "price": "1.129,41 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/318sw-YuLcL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/DOCKERS-Oxford-Slim-G%C3%B6mlek-Erkek/dp/B0DQLDMG66?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DQLDMG66&ref_=pd_hp_d_btf_unk_B0DQLDMG66",
+          "hasDiscount": false
+        },
+        {
+          "title": "Tommy Hilfiger TJM LINEN BLEND CAMP SS EXT Gömlek Erkek",
+          "price": "1.685,50 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31lDHKIpU1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Tommy-Hilfiger-LINEN-BLEND-G%C3%B6mlek/dp/B0DLH5VVBT?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DLH5VVBT&ref_=pd_hp_d_btf_unk_B0DLH5VVBT",
+          "hasDiscount": false
+        },
+        {
+          "title": "Adidas Erkek Terrex Eastrail 2 Mid R.Rdy Yürüyüş Ayakkabisi",
+          "price": "2.755,69 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31XI8Xj3TDL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/adidas-TERREX-EASTRAIL-R-RDY-Ayakkab%C4%B1/dp/B0CKY1RHSH?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CKY1RHSH&ref_=pd_hp_d_btf_unk_B0CKY1RHSH",
+          "hasDiscount": false
+        },
+        {
+          "title": "Crocs Classic TerlikUnisex Yetişkin",
+          "price": "1.381,67 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31cRpvhebkL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Crocs-%C3%9Cniseks-Classic-Clog-Bijou/dp/B0044WVUCW?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0044WVUCW&ref_=pd_hp_d_btf_unk_B0044WVUCW",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas TERREX ANYLANDER MID R.RDY Spor AyakkabıErkek",
+          "price": "2.419,88 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/313iFkG0IVL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/adidas-TERREX-ANYLANDER-Ayakkab%C4%B1-wonder/dp/B0CKXZVC6F?pd_rd_w=OHcjy&content-id=amzn1.sym.0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_p=0213fae0-2c9f-449e-80a5-9f74e25fd488&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CKXZVC6F&ref_=pd_hp_d_btf_unk_B0CKXZVC6F",
+          "hasDiscount": false
+        },
+        {
+          "title": "Geroni MAGNUM - 26\" - MTB - 15' - 21 Vites - V.B - Mat Siyah-Kırmızı/Gri",
+          "price": "6.663,56 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41F9afSjhBL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Geroni-MAGNUM-MTB-Vites-Siyah-K%C4%B1rm%C4%B1z%C4%B1/dp/B0DM6LF2C5?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DM6LF2C5&ref_=pd_hp_d_btf_unk_B0DM6LF2C5",
+          "hasDiscount": false
+        },
+        {
+          "title": "Vertisol Trail Erkek Ayakkabı",
+          "price": "4.494,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31b-rvtp40L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Columbia-Vertisol-Trail-Arazi-Ayakkab%C4%B1s%C4%B1/dp/B0C5NQ5J39?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0C5NQ5J39&ref_=pd_hp_d_btf_unk_B0C5NQ5J39",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas Duramo Sl M Spor Ayakkabı Erkek",
+          "price": "1.492,20 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Mq5NUO6OL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Adidas-Duramo-Erkek-Ayakkab%C4%B1-43-3333333333333/dp/B0CLS1YZ9G?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CLS1YZ9G&ref_=pd_hp_d_btf_unk_B0CLS1YZ9G",
+          "hasDiscount": false
+        },
+        {
+          "title": "Dynamic Select Erkek Siyah Antrenman Ayakkabısı 3026608-001",
+          "price": "2.157,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31pl6IxHB3L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/ARMOUR-Dynamic-Antrenman-Ayakkab%C4%B1s%C4%B1-3026608-001/dp/B0BGQQ7WVH?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BGQQ7WVH&ref_=pd_hp_d_btf_unk_B0BGQQ7WVH",
+          "hasDiscount": false
+        },
+        {
+          "title": "Charged Assert 10 Erkek Siyah Koşu Ayakkabısı 3026175-001",
+          "price": "1.735,77 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/415h+DapoEL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Charged-Assert-Ayakkab%C4%B1s%C4%B1/dp/B09XBW5NF6?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09XBW5NF6&ref_=pd_hp_d_btf_unk_B09XBW5NF6",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour UA W Charged Surge 4 Spor AyakkabıKadın",
+          "price": "1.508,65 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31lZWwVgadL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Ayakkab%C4%B1s%C4%B1-Charged-Metallic/dp/B0BZXQYRPX?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BZXQYRPX&ref_=pd_hp_d_btf_unk_B0BZXQYRPX",
+          "hasDiscount": false
+        },
+        {
+          "title": "Tommy Hilfiger TJM LINEN BLEND CAMP SS EXT Gömlek Erkek",
+          "price": "1.685,50 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31lDHKIpU1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Tommy-Hilfiger-LINEN-BLEND-G%C3%B6mlek/dp/B0DLH5VVBT?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DLH5VVBT&ref_=pd_hp_d_btf_unk_B0DLH5VVBT",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour UA Charged Rogue 4 Koşu AyakkabısıErkek",
+          "price": "1.780,11 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31foUCjwH1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Ayakkab%C4%B1s%C4%B1/dp/B0BZXNDJ9R?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BZXNDJ9R&ref_=pd_hp_d_btf_unk_B0BZXNDJ9R",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour Ücretli Takip 3 Büyük Logo Koşu Ayakkabısı Erkek",
+          "price": "1.527,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Co1CbnNmL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Charged-Pursuit-Ayakkab%C4%B1s%C4%B1/dp/B0BGQRHVGG?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BGQRHVGG&ref_=pd_hp_d_btf_unk_B0BGQRHVGG",
+          "hasDiscount": false
+        },
+        {
+          "title": "Dockers Oxford Slim Fit Gömlek Gömlek Erkek",
+          "price": "1.112,29 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31YiU53MHjL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Dockers-Oxford-Slim-G%C3%B6mlek-Erkek/dp/B0DCCN5CP6?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DCCN5CP6&ref_=pd_hp_d_btf_unk_B0DCCN5CP6",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour UA HOVR Sonic 6 Koşu AyakkabısıErkek",
+          "price": "2.599,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31enkRZImIL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Sonic-Ayakkab%C4%B1s%C4%B1-Metallic/dp/B09XBVFRS8?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B09XBVFRS8&ref_=pd_hp_d_btf_unk_B09XBVFRS8",
+          "hasDiscount": false
+        },
+        {
+          "title": "Charged Edge Erkek Siyah Sneaker Ayakkabı 3026727-003",
+          "price": "2.044,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Cdh2XRuwL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3SY1C?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CJT3SY1C&ref_=pd_hp_d_btf_unk_B0CJT3SY1C",
+          "hasDiscount": false
+        },
+        {
+          "title": "UNDER ARMOUR Erkek UA RIVAL FLEECE JOGGERS Eşofman Altı",
+          "price": "1.207,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/319jT7gyYdL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Fleece-Joggers-Sweatpant/dp/B0BGVPF4ZM?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BGVPF4ZM&ref_=pd_hp_d_btf_unk_B0BGVPF4ZM",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour UA W Ignite Select Terlik Kadın",
+          "price": "741,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/319FtkXn6pL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Terlik-Ignite-Select/dp/B0BZWT7TPW?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BZWT7TPW&ref_=pd_hp_d_btf_unk_B0BZWT7TPW",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas ULTRABOUNCE W Spor AyakkabıKadın",
+          "price": "1.614,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/21xI8X8dt+L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/adidas-Ftwwht-Crywht-Ultrabounce-Ayakkab%C4%B1/dp/B0BN6G7T1S?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BN6G7T1S&ref_=pd_hp_d_btf_unk_B0BN6G7T1S",
+          "hasDiscount": false
+        },
+        {
+          "title": "Contigo Gizmo Flip Uzay Tritan Çocuk Suluğu 420 mL Mavi",
+          "price": "607,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41uY3v4-GWL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Contigo-%C5%9Fi%C5%9Fesi-pipetli-i%C3%A7ermeyen-s%C4%B1zd%C4%B1rmaz/dp/B07TSYZQH3?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07TSYZQH3&ref_=pd_hp_d_btf_unk_B07TSYZQH3",
+          "hasDiscount": false
+        },
+        {
+          "title": "Under Armour Undeniable 5.0 Duffle",
+          "price": "1.440,98 TL",
+          "originalPrice": "1.515,00 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/319oJvzPrUL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Aksesuar%C4%B1-Undeniable-1369223/dp/B0CJVR6SP6?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0CJVR6SP6&ref_=pd_hp_d_btf_unk_B0CJVR6SP6",
+          "hasDiscount": true
+        },
+        {
+          "title": "Under Armour Play Up 3.0 Shorts Şort Kadın",
+          "price": "505,98 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31aaTHgVAHL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Under-Armour-Kad%C4%B1n-Play-%C5%9Eort/dp/B0BGVWLS6S?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BGVWLS6S&ref_=pd_hp_d_btf_unk_B0BGVWLS6S",
+          "hasDiscount": false
+        },
+        {
+          "title": "adidas OZELLE Spor AyakkabıKadın",
+          "price": "1.856,90 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/31e3ivHdxzL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/adidas-Ozelle-Kad%C4%B1n-Ayakkab%C4%B1-Beyaz/dp/B0B31L5Z2M?pd_rd_w=HbnHr&content-id=amzn1.sym.331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_p=331b3c18-5550-4362-9a15-83c78c0dd9f6&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0B31L5Z2M&ref_=pd_hp_d_btf_unk_B0B31L5Z2M",
+          "hasDiscount": false
+        },
+        {
+          "title": "Contigo Gizmo Flip Uzay Tritan Çocuk Suluğu 420 mL Mavi",
+          "price": "607,00 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41uY3v4-GWL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Contigo-%C5%9Fi%C5%9Fesi-pipetli-i%C3%A7ermeyen-s%C4%B1zd%C4%B1rmaz/dp/B07TSYZQH3?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07TSYZQH3&ref_=pd_hp_d_btf_unk_B07TSYZQH3",
+          "hasDiscount": false
+        },
+        {
+          "title": "Waterman Hemisphere Lake Siyah Krom Tasarımlı Dolma Kalem, Orta Kalınlıkta Uç, Mavi Mürekkep",
+          "price": "3.028,05 TL",
+          "originalPrice": "3.399,92 TL",
+          "discountRate": "%11",
+          "discountPercentage": 11,
+          "imageUrl": "https://m.media-amazon.com/images/I/41-WsN5QU-L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Waterman-Hemisphere-Tasar%C4%B1ml%C4%B1-Kal%C4%B1nl%C4%B1kta-M%C3%BCrekkep/dp/B004NSCAP8?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B004NSCAP8&ref_=pd_hp_d_btf_unk_B004NSCAP8",
+          "hasDiscount": true
+        },
+        {
+          "title": "Faber-Castell Polychromos Boya Kalemi 36 lı 110036",
+          "price": "2.218,50 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41GgXnonqxL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Faber-Castell-Polychromos-Boya-Kalemi-110036/dp/B07SYB9K8Y?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07SYB9K8Y&ref_=pd_hp_d_btf_unk_B07SYB9K8Y",
+          "hasDiscount": false
+        },
+        {
+          "title": "CANON F-605G Siyah 12 Hane Bilimsel Hesap Makinesi",
+          "price": "286,94 TL",
+          "originalPrice": "305,52 TL",
+          "discountRate": "%6",
+          "discountPercentage": 6,
+          "imageUrl": "https://m.media-amazon.com/images/I/41jYJC7J7vL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/CANON-F-605G-Siyah-Bilimsel-Makinesi/dp/B077BRKF65?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B077BRKF65&ref_=pd_hp_d_btf_unk_B077BRKF65",
+          "hasDiscount": true
+        },
+        {
+          "title": "Smartware Soft Çöp Kutusu Döner Kapak 10 LT CARMEN KIRMIZI",
+          "price": "223,30 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/217ahZWAZlL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Smartware-Kutusu-D%C3%B6ner-Kapak-Carmen/dp/B0DH4S2NZ5?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0DH4S2NZ5&ref_=pd_hp_d_btf_unk_B0DH4S2NZ5",
+          "hasDiscount": false
+        },
+        {
+          "title": "Rotring Rapid PRO Mekanik Kurşun Kalem, Siyah 2.0 mm",
+          "price": "1.126,18 TL",
+          "originalPrice": "1.180,00 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/31dzANf+yAL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/rOtring-Rapid-Mekanik-Kur%C5%9Fun-Kalem/dp/B0055ZV8LK?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0055ZV8LK&ref_=pd_hp_d_btf_unk_B0055ZV8LK",
+          "hasDiscount": true
+        },
+        {
+          "title": "Rotring TIKKY RD VERSATIL DENİZ MAVİSİ 0.5 MM, Rotring, Deniz Mavisi",
+          "price": "141,55 TL",
+          "originalPrice": "148,50 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/215OGMxQziL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/TIKKY-VERSATIL-DEN%C4%B0Z-MAV%C4%B0S%C4%B0-0-5/dp/B0BVV5RZ7G?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0BVV5RZ7G&ref_=pd_hp_d_btf_unk_B0BVV5RZ7G",
+          "hasDiscount": true
+        },
+        {
+          "title": "Rotring Visuclick Versatil Kalem 3’lü Okul Seti, Uçlu Kalem 0.7 mm, 0.7 Uç 2B, Silgi Hediye - Mavi",
+          "price": "77,88 TL",
+          "originalPrice": "81,88 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/316alPodDgL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Rotring-Visuclick-Versatil-Kalem-Hediye/dp/B08GJ6C3KM?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B08GJ6C3KM&ref_=pd_hp_d_btf_unk_B08GJ6C3KM",
+          "hasDiscount": true
+        },
+        {
+          "title": "BIC Plastidecor Elleri Kirletmeyen Pastel Mum Boya, 24'lü Kutu, Elleri Boyamaz, 30 Aydan Büyük Çocuklar İçin İdeal",
+          "price": "102,51 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/41pHaSsBWjL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/BIC-Plastidecor-Kirletmeyen-Boyamaz-%C3%87ocuklar/dp/B001231634?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B001231634&ref_=pd_hp_d_btf_unk_B001231634",
+          "hasDiscount": false
+        },
+        {
+          "title": "Fournier Poker Oyun Kartları Nº 818, Jumbo Endeks, Kırmızı/Mavi",
+          "price": "353,52 TL",
+          "originalPrice": "372,22 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/51r8wDbZGDL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Fournier-F21643-Jumbo-Index-k%C4%B1rm%C4%B1z%C4%B1/dp/B0006444NY?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B0006444NY&ref_=pd_hp_d_btf_unk_B0006444NY",
+          "hasDiscount": true
+        },
+        {
+          "title": "Lamy T10T Dolmakalem kartuşu",
+          "price": "146,00 TL",
+          "originalPrice": "159,22 TL",
+          "discountRate": "%8",
+          "discountPercentage": 8,
+          "imageUrl": "https://m.media-amazon.com/images/I/31cyb8xQvFL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Lamy-Dolma-Kalem-Kartu%C5%9Fu-5li/dp/B000FA5E92?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B000FA5E92&ref_=pd_hp_d_btf_unk_B000FA5E92",
+          "hasDiscount": true
+        },
+        {
+          "title": "Faber-Castell Resim Defteri, 25x35 cm, 30 Yaprak, Sert Kapak, Spiral Cilt, 120g Kağıt, Dayanıklı ve Çevre Dostu, Asorti Renkler",
+          "price": "108,54 TL",
+          "originalPrice": "115,00 TL",
+          "discountRate": "%6",
+          "discountPercentage": 6,
+          "imageUrl": "https://m.media-amazon.com/images/I/315XIEVSu9L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Faber-Castell-Kapak-Defteri-25x35cm-Asorti/dp/B07D97JN2X?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07D97JN2X&ref_=pd_hp_d_btf_unk_B07D97JN2X",
+          "hasDiscount": true
+        },
+        {
+          "title": "rOtring Visumax Versatil, Uçlu Kalem 0.7 mm, Kırmızı",
+          "price": "88,11 TL",
+          "originalPrice": "92,75 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/2178Nz4jC+L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/rOtring-Visumax-Versatil-Kalem-K%C4%B1rm%C4%B1z%C4%B1/dp/B07RMXRRDZ?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07RMXRRDZ&ref_=pd_hp_d_btf_unk_B07RMXRRDZ",
+          "hasDiscount": true
+        },
+        {
+          "title": "BIC Matic Combo Fun 0.7 Uçlu Kalem 10'lu Poşet, Farklı Renklerde Versatil Kalem, Kalem İçi 3 Adet Uç, Silgili",
+          "price": "106,33 TL",
+          "originalPrice": "159,00 TL",
+          "discountRate": "%33",
+          "discountPercentage": 33,
+          "imageUrl": "https://m.media-amazon.com/images/I/41R8JV-6b-L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/BIC-basmal%C4%B1-kur%C5%9Fun-farkl%C4%B1-renkler/dp/B07CLQZGHC?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07CLQZGHC&ref_=pd_hp_d_btf_unk_B07CLQZGHC",
+          "hasDiscount": true
+        },
+        {
+          "title": "Lamy 18-M Dolmakalem",
+          "price": "996,78 TL",
+          "originalPrice": "1.215,00 TL",
+          "discountRate": "%18",
+          "discountPercentage": 18,
+          "imageUrl": "https://m.media-amazon.com/images/I/31GrdYX8F1L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/LAMY-L18M-Lamy-18-M-Dolmakalem/dp/B000R30A2I?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B000R30A2I&ref_=pd_hp_d_btf_unk_B000R30A2I",
+          "hasDiscount": true
+        },
+        {
+          "title": "Rotring Visuclick Jel Okul Seti 0,7 mm, Mekanik Kurşun Kalem, Uç ve Silgi Seti, Pembe",
+          "price": "114,00 TL",
+          "originalPrice": "124,54 TL",
+          "discountRate": "%8",
+          "discountPercentage": 8,
+          "imageUrl": "https://m.media-amazon.com/images/I/41wwGrnJ8WL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Rotring-Visuclick-Okul-Seti-0-7mm/dp/B08NYJ9KWY?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B08NYJ9KWY&ref_=pd_hp_d_btf_unk_B08NYJ9KWY",
+          "hasDiscount": true
+        },
+        {
+          "title": "Meteksan A4 Çizgili Okul Defteri Kamuflaj 60 Yaprak",
+          "price": "93,96 TL",
+          "originalPrice": "97,24 TL",
+          "discountRate": "%3",
+          "discountPercentage": 3,
+          "imageUrl": "https://m.media-amazon.com/images/I/41twLLt+9-L._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Metaksan-%C3%87izgili-Defteri-Kamuflaj-Yaprak/dp/B07D4TBN34?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07D4TBN34&ref_=pd_hp_d_btf_unk_B07D4TBN34",
+          "hasDiscount": true
+        },
+        {
+          "title": "Faber-Castell BiColor Spiralli Defter, A4, 80 Yaprak, 70g Kağıt, Çizgili, Dayanıklı PP Kapak, Asorti Renkler, Kullanışlı ve Şık Tasarım, Tekli Paket",
+          "price": "93,42 TL",
+          "originalPrice": "",
+          "discountRate": "Fırsat",
+          "discountPercentage": 0,
+          "imageUrl": "https://m.media-amazon.com/images/I/316hsyKjrGL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Faber-Castell-Kpk-Bicolor-Spiralli-5075000127/dp/B07DXH566G?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07DXH566G&ref_=pd_hp_d_btf_unk_B07DXH566G",
+          "hasDiscount": false
+        },
+        {
+          "title": "Uhu Tac Patafıx Beyaz",
+          "price": "109,25 TL",
+          "originalPrice": "111,92 TL",
+          "discountRate": "Fırsat",
+          "discountPercentage": 2,
+          "imageUrl": "https://m.media-amazon.com/images/I/41XlpKj3UrL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/UHU-38021-Uhu-Pataf%C4%B1x-Beyaz/dp/B00DTRB5G4?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B00DTRB5G4&ref_=pd_hp_d_btf_unk_B00DTRB5G4",
+          "hasDiscount": true
+        },
+        {
+          "title": "Meteksan A4 Kareli Klasik Bloknot, 50 Yaprak, Not Defteri, Karton Kapak, Yeşil",
+          "price": "88,92 TL",
+          "originalPrice": "93,60 TL",
+          "discountRate": "%5",
+          "discountPercentage": 5,
+          "imageUrl": "https://m.media-amazon.com/images/I/31exbOCQSPL._SR480,440_.jpg",
+          "url": "https://www.amazon.com.tr/Metaksan-Kareli-Klasik-Bloknot-Yaprak/dp/B07DFNCQN3?pd_rd_w=AR3Va&content-id=amzn1.sym.82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_p=82f2feb1-c8c1-41af-9e48-1af5f775b2c0&pf_rd_r=MSJW44HMCJX03XN6FQWG&pd_rd_wg=Lbfh3&pd_rd_r=12dc8901-2434-4c41-ad56-be17090cf2b2&pd_rd_i=B07DFNCQN3&ref_=pd_hp_d_btf_unk_B07DFNCQN3",
+          "hasDiscount": true
+        }
+      ],
+      "totalProducts": 93,
+      "totalDiscountedProducts": 36
+    },
+    {
+      "url": "https://www.amazon.com.tr/gp/bestsellers/",
+      "products": [],
+      "totalProducts": 0,
+      "totalDiscountedProducts": 0
+    }
+  ],
+  "totalProducts": 93,
+  "totalDiscountedProducts": 36
+}

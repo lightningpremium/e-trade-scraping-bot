@@ -1,0 +1,25 @@
+{
+  "name": "scrapingg",
+  "version": "1.0.0",
+  "description": "Web scraping solution for e-commerce sites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "trendyol": "node index.js --trendyol",
+    "hepsiburada": "node index.js --hepsiburada",
+    "amazon": "node index.js --amazon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping",
+    "e-commerce",
+    "trendyol",
+    "hepsiburada",
+    "amazon"
+  ],
+  "author": "lightningpremium",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
